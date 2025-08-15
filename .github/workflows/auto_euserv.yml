@@ -2,7 +2,8 @@ name: Auto EUserv
 
 on:
   schedule:
-    - cron: "0 12 20 * *" # 每月 20 号 UTC 时间 12:00 运行
+    - cron: "0 12 */10 * *" # 每 10 天运行一次（每月的第 1、11、21、31 日 UTC 时间 12:00）
+    
   workflow_dispatch:
 
 jobs:
