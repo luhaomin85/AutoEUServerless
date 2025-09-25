@@ -19,8 +19,8 @@ from typing import Optional
 
 
 # 账户信息：用户名和密码
-USERNAME = ''
-PASSWORD = ''
+USERNAME = 'luhaomin910@gmail.com'
+PASSWORD = 'QQbb2599'
 
 # TrueCaptcha API 配置
 # 申请地址: https://truecaptcha.org/
