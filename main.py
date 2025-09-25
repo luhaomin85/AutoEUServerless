@@ -25,14 +25,14 @@ PASSWORD = 'QQbb2599'
 # TrueCaptcha API 配置
 # 申请地址: https://truecaptcha.org/
 
-TRUECAPTCHA_USERID = ''
-TRUECAPTCHA_APIKEY = ''
+TRUECAPTCHA_USERID = 'luhaomin910'
+TRUECAPTCHA_APIKEY = 'z2Yo5uxaKYKCGPWEl0CW'
 
 
 # Mail 邮箱 配置
 IMAP_SERVER = "imap.gmail.com" #   mail API 地址（如 'imap.gmail.com' 或 'outlook.office365.com'）
-MAIL_ADDRESS = '' 
-APP_PASSWORD = ''
+MAIL_ADDRESS = 'luhaomin910@gmail.com' 
+APP_PASSWORD = 'QQbb2599'
 SENDER_FILTER = 'EUserv Support' # 无需修改
 SUBJECT_FILTER = 'EUserv - PIN for the Confirmation of a Security Check' # 无需修改
 MAX_MAILS = 10  # 无需修改
